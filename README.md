@@ -2,6 +2,8 @@
 
 _The-must-install chat bot for Slack._
 
+![Slack](https://a.slack-edge.com/272a/img/slack_growl_icon.png)
+
 http://thecodinglove.com/
 
 ### >_ Version
@@ -52,7 +54,7 @@ All set, let run it!!
 ```sh
 python codinglovebot.py
 ```
-If you can not any error, and see something like this: 'codinglove connected and running!' you are done.
+If you can not see any error, and printed out something like this: 'codinglove connected and running!' you are done.
 
 ***Now You can try this on Your Slack by sending a private message to the bot, something like this:***
 
