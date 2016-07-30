@@ -58,7 +58,9 @@ If you can not see any error, and printed out something like this: 'codinglove c
 
 ***Now You can try this on Your Slack by sending a private message to the bot, something like this:***
 
---> @codinglovebot: send me a random post
+--> @codinglovebot: send me a nice post
+
+![Nice post](https://s31.postimg.org/wrpcfubcb/Ke_pernyo_foto_2016_07_30_21_55_20.png)
 
 
 If there is any issue, error, typo or anything, pls let me know, and I will fix it as soon as possible. 
